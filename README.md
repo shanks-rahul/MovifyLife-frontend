@@ -1,1 +1,1 @@
-# Streamig-frontend
+# Streaming-frontend
