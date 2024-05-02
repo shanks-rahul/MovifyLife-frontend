@@ -31,7 +31,7 @@ function SignUp(){
     function uploadImage(e){
         e.preventDefault();
         const uploadedImage=e.target.files[0];
-        if(uploadImage){
+        if(uploadedImage){
             const fileReader=new FileReader();
             fileReader.readAsDataURL(uploadedImage);
             fileReader.addEventListener('load',function(){
