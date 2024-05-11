@@ -10,7 +10,7 @@
 2. Move into the directory
 
 ```
-    cd lms-frontend-en
+    cd vite-project
 ```
 
 3. Install dependencies
