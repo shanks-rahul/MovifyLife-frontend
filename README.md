@@ -25,7 +25,7 @@
 ```
 
 
-### How to setup taildinw in your project [Link](https://tailwindcss.com/docs/guides/vite)
+### How to setup tailwind in your project [Link](https://tailwindcss.com/docs/guides/vite)
 
 1. Install tailwind and other dependencies
 ```
