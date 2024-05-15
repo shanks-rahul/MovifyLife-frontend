@@ -82,7 +82,7 @@ function AddEpisodes() {
                         <input
                             type="text"
                             name="title"
-                            placeholder="enter the title of the lecture"
+                            placeholder="enter the title of the video"
                             onChange={handleInput}
                             className="px-3 py-1 border bg-transparent"
                             value={userInput.title}
@@ -90,7 +90,7 @@ function AddEpisodes() {
                         <textarea
                             type="text"
                             name="description"
-                            placeholder="enter the description of the lecture"
+                            placeholder="enter the description of the video"
                             onChange={handleInput}
                             className="px-3 py-1 border bg-transparent resize-none overflow-y-scroll h-36"
                             value={userInput.description}
